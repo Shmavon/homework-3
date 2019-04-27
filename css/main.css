@@ -1,0 +1,104 @@
+body{
+    background-color: cornsilk;
+    margin: 0 auto;
+}
+
+#d-1{
+    background-color:#2851A3;
+    display: block;
+    border: 1px solid;
+    flex-grow: 1;
+    order: 1;
+}           
+
+div{
+    display: inline-block;
+} 
+
+#d-2{
+    background-color: #AAC9FF;
+    vertical-align: top;
+    width: 100%;
+    display: flex;
+    flex-flow: nowrap;
+}
+
+h2{
+    color: #1D3C78;
+}
+
+#dd-1{
+    width: 50%;
+} 
+
+#dd-2{
+    width: 50%;
+}
+
+li{
+    color: #ECF3FF;
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 20px;
+    font-size: 12px;
+}
+
+#ddd-1{
+    background-color: #69a74e;
+    display: block;
+    border: 1px solid;
+    margin: 20px;
+    padding: 15px;
+    height: 60px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    font-size: 30px; 
+}
+
+p{
+    color: white;
+}
+
+b{
+    display: block;
+    font-size: 20px;
+}
+
+.registracia{
+    background-size: 150px;
+    font-size: 15px;
+    margin: 5px;  
+    width: 170px;
+    height: 30px;
+}
+
+.reg{
+    background-size: 150px;
+    font-size: 20px;
+    display: block;
+    margin: 5px;
+    width: 360px;
+    height: 30px;
+}
+
+.ser{
+    display: inline-block;
+    font-size: 20px;
+}
+
+samp{
+    font-size: 11px;
+}  
+
+#dd-11{
+    padding: 10px;
+    margin: 15px;
+    display: inline-block;
+}
+ 
+#ser{
+    display: inline;
+    width: 170px;
+    height: 30px;
+}
